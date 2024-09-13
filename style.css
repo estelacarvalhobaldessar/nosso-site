@@ -6,7 +6,7 @@
 header{
     height: 300px;
     width: 100%;
-    background-color: aqua;
+    background-color: rgb(129, 168, 110);
 }
 ul {
     list-style-type: none;
@@ -34,7 +34,8 @@ ul {
   }
   h1{
     font-size: 100px;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-family:constantia;
     text-align: center;
     margin-top: 75px;
+    color: #111;
   }
