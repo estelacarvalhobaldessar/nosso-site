@@ -6,5 +6,39 @@
 aside{
   height: 650px;
   width: 25%;
-  background-color: rgb(19, 32, 70);
+  background-color: mediumaquamarine;
+}
+.caixa{
+  height: 40px;
+  width: 310px;
+  border: 2px white;
+  margin-left: 15px;
+}
+::placeholder{
+  color: gray;
+  font-size: 15px;
+  font-style: italic;
+}
+.caixabranca{
+  width: 310px;
+  height: 270px;
+  background-color: white;
+  margin-left: 15px;
+  margin-top: 25px;
+}
+.h1{
+  background-color: black;
+  height: 35px;
+  width:310px ;
+  color: white;
+  padding-top: 5px;
+}
+
+aside div.caixabranca ul {
+  font-size: 16px;
+  padding-left: 23px;
+}
+aside div.caixabranca ul li{
+  font-size: 16px;
+  padding-left: 10px;
 }
