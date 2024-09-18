@@ -4,7 +4,7 @@
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 aside{
-  height: 650px;
+  height: 700px;
   width: 25%;
   background-color: mediumaquamarine;
 }
@@ -26,14 +26,16 @@ aside{
   margin-left: 15px;
   margin-top: 25px;
 }
-.h1{
+
+aside div.caixabranca h1.ml{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
   background-color: black;
   height: 35px;
   width:310px ;
   color: white;
   padding-top: 5px;
 }
-
 aside div.caixabranca ul {
   font-size: 16px;
   padding-left: 23px;
@@ -41,4 +43,37 @@ aside div.caixabranca ul {
 aside div.caixabranca ul li{
   font-size: 16px;
   padding-left: 10px;
+}
+.caixaquadrada{
+  width: 150px;
+  height: 150px;
+  margin-left: 15px;
+  margin-top: 15px;
+  background-color: brown;
+}
+.caixaquadrada2{
+  width: 150px;
+  height: 150px;
+  margin-left: 15px;
+  margin-top: 15px;
+  background-color: brown;
+}
+.caixaquadrada3{
+  width: 150px;
+  height: 150px;
+  margin-left: 175px;
+ margin-top: -315px;
+  background-color: brown;
+}
+.caixaquadrada4{
+  width: 150px;
+  height: 150px;
+  margin-left: 175px;
+ margin-top: 15px;
+  background-color: brown;
+}
+aside div.caixabranca ul li a{
+  text-decoration: none ;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
 }
