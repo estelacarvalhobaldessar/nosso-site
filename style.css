@@ -11,7 +11,7 @@
 .caixa2{
     height: 350px;
     width: 460px;
-    margin-top: 120px;
+    margin-top: 150px;
     background-color: mediumaquamarine;
     
 }
@@ -29,7 +29,7 @@
     width: 70%px;
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-top: 0px;
+
 }
 .h2{
     background-color: black;
@@ -37,7 +37,7 @@
     width: 70%px;
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-   
+    margin-top: px;
 }
 .h3{
     background-color: black;
@@ -45,7 +45,7 @@
     width: 70%px;
     color: white;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-    margin-top: 0px;
+    margin-top: px;
 }
 .quadradobranco{
     height: 210px;
@@ -92,6 +92,11 @@
     margin-top: 15px;
     color: white;
 }
+.lista2{
+    margin-left: 528px;
+    margin-top: 40px;
+    color: white;
+}
 .botao{
     margin-top:  10px;
     margin-left: 370px;
@@ -99,5 +104,13 @@
 .linha{
     background-color: black;
     height: 30px;
-    width: 300px;
+    width: 400px;
+    margin-left: 510px;
+    margin-top: -150px;
+}
+.artigos{
+    margin-left: 645px;
+    margin-top: -27px;
+    color: white;
+    font-size: larger;
 }
