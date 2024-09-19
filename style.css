@@ -171,3 +171,86 @@ header #menu ul  {
     color: #111;
     text-shadow: white 1px 0 10px;
   }
+aside{
+  height: 700px;
+  width: 25%;
+  background-color: rgb(70, 124, 168)
+}
+.caixa{
+  height: 40px;
+  width: 310px;
+  border: 2px white;
+  margin-left: 15px;
+}
+::placeholder{
+  color: gray;
+  font-size: 15px;
+  font-style: italic;
+}
+.caixabranca{
+  width: 310px;
+  height: 270px;
+  background-color: white;
+  margin-left: 15px;
+  margin-top: 25px;
+}
+
+aside div.caixabranca h1.ml{
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  text-align: center;
+  background-color: black;
+  height: 35px;
+  width:310px ;
+  color: white;
+  padding-top: 5px;
+}
+aside div.caixabranca ul {
+  font-size: 16px;
+  padding-left: 23px;
+}
+aside div.caixabranca ul li{
+  font-size: 16px;
+  padding-left: 10px;
+}
+.caixaquadrada{
+  width: 150px;
+  height: 150px;
+  margin-left: 15px;
+  margin-top: 15px;
+  background-image: url(https://images.pexels.com/photos/64219/dolphin-marine-mammals-water-sea-64219.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.caixaquadrada2{
+  width: 150px;
+  height: 150px;
+  margin-left: 15px;
+  margin-top: 15px;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvqyOzOJZTjtZXoufLEDZ9-WFUxfTHC2e5yuJCwKI6ydYDbQXbrjQVjqdekEqBGTBVn8&usqp=CAU);
+  background-position-x: -45px;
+}
+.caixaquadrada3{
+  width: 150px;
+  height: 150px;
+  margin-left: 175px;
+ margin-top: -315px;
+  background-image: url(https://s1.static.brasilescola.uol.com.br/be/e/image/tartaruga.jpg);
+  background-position-x: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.caixaquadrada4{
+  width: 150px;
+  height: 150px;
+  margin-left: 175px;
+ margin-top: 15px;
+  background-image: url(https://biologiamarinhadeinfo.wordpress.com/wp-content/uploads/2015/05/significado-dos-sonhos-peixe.jpg);
+  background-position-x: -26px;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+aside div.caixabranca ul li a{
+  text-decoration: none ;
+  color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
