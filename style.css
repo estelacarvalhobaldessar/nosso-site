@@ -7,12 +7,14 @@
     height: 300px;
     width: 70%;
     background-color:rgb(70, 124, 168);
+    margin-top: 25px;
 }
 .caixa2{
     height: 350px;
     width: 460px;
-    margin-top: 150px;
+    margin-top: 135px;
     background-color: rgb(70, 124, 168);
+  
     
 }
 .caixa3{
@@ -126,7 +128,7 @@ li{
     background-color: black;
     height: 30px;
     width: 100%;
-    margin-top: 30px;
+    margin-top: 405px;
 }
 header{
     height: 300px;
@@ -137,7 +139,7 @@ header{
     background-size: cover;
     background-position: center center; 
 }
-ul {
+header #menu ul  {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -145,11 +147,11 @@ ul {
     background-color: #333;
   }
   
-  li {
+ header #menu ul li {
     float: left;
   }
   
-  li a {
+  header #menu ul li a {
     display: block;
     color: white;
     text-align: center;
@@ -158,10 +160,10 @@ ul {
   }
   
   /* Change the link color to #111 (black) on hover */
-  li a:hover {
+  header #menu ul li a:hover {
     background-color: #15153b;
   }
-  h1{
+  .titulo{
     font-size: 85px;
     font-family:constantia;
     text-align: center;
