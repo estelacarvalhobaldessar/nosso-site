@@ -6,20 +6,20 @@
 .caixa1{
     height: 300px;
     width: 70%;
-    background-color:mediumaquamarine;
+    background-color:rgb(70, 124, 168);
 }
 .caixa2{
     height: 350px;
     width: 460px;
     margin-top: 150px;
-    background-color: mediumaquamarine;
+    background-color: rgb(70, 124, 168);
     
 }
 .caixa3{
     height: 350px;
     width: 463px;
     margin-top: -350px;
-    background-color: mediumaquamarine;
+    background-color: rgb(70, 124, 168);
     margin-left: 480px;
     
 }
@@ -52,8 +52,8 @@
     width: 210px;
     margin-left: 20px;
     margin-top: 20px;
-
     background-color: white;
+    background-image: url(https://img.freepik.com/fotos-premium/vida-marinha-subaquatica-tropical-na-paisagem-brilhante-e-colorida-dos-recifes-de-corais_935074-5146.jpg);
 }
 .bio{
     margin-left: 300px;
@@ -66,26 +66,31 @@
     margin-left: 300px;
     margin-top: 40px;
     color: white;
+    font-family: cursive    ;
 }
 .texto{
     margin-top: 25px;
     margin-left: 20px;
     color: white;
+    font-family: cursive;
 }
 .texto2{
     margin-top: 30px;
     margin-left: 10px;
     color: white;
+    font-family: cursive;
 }
 .biodiversidade{
     margin-top: -40px;
     margin-left: 15px;
     color: white;
+   
 }
 .importancia{
     margin-top: -40px;
     margin-left: 15px;
     color: white;
+   
 }
 .lista{
     margin-left: 40px;
@@ -113,4 +118,7 @@
     margin-top: -27px;
     color: white;
     font-size: larger;
+}
+li{
+    font-family: cursive;
 }
