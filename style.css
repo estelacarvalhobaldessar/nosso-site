@@ -6,7 +6,7 @@
 aside{
   height: 700px;
   width: 25%;
-  background-color: mediumaquamarine;
+  background-color: rgb(70, 124, 168)
 }
 .caixa{
   height: 40px;
@@ -49,28 +49,37 @@ aside div.caixabranca ul li{
   height: 150px;
   margin-left: 15px;
   margin-top: 15px;
-  background-color: brown;
+  background-image: url(https://images.pexels.com/photos/64219/dolphin-marine-mammals-water-sea-64219.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .caixaquadrada2{
   width: 150px;
   height: 150px;
   margin-left: 15px;
   margin-top: 15px;
-  background-color: brown;
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsvqyOzOJZTjtZXoufLEDZ9-WFUxfTHC2e5yuJCwKI6ydYDbQXbrjQVjqdekEqBGTBVn8&usqp=CAU);
+  background-position-x: -45px;
 }
 .caixaquadrada3{
   width: 150px;
   height: 150px;
   margin-left: 175px;
  margin-top: -315px;
-  background-color: brown;
+  background-image: url(https://s1.static.brasilescola.uol.com.br/be/e/image/tartaruga.jpg);
+  background-position-x: center center;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 .caixaquadrada4{
   width: 150px;
   height: 150px;
   margin-left: 175px;
  margin-top: 15px;
-  background-color: brown;
+  background-image: url(https://biologiamarinhadeinfo.wordpress.com/wp-content/uploads/2015/05/significado-dos-sonhos-peixe.jpg);
+  background-position-x: -26px;
+  background-size: cover;
+  background-repeat: no-repeat;
 }
 aside div.caixabranca ul li a{
   text-decoration: none ;
