@@ -122,3 +122,9 @@
 li{
     font-family: cursive;
 }
+.footer{
+    background-color: black;
+    height: 30px;
+    width: 100%;
+    margin-top: 30px;
+}
